@@ -15,6 +15,7 @@ function parseNumbers(filename) {
   }
 }
 
+
 function computeSum(nums) {
   return nums.reduce((acc, curr) => acc + curr, 0);
 }
